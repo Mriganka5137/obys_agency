@@ -5,7 +5,7 @@ function App() {
   return (
     <>
       <Loader />
-      <div className="w-full h-screen text-white bg-stone-900"></div>;
+      <div className="w-full h-screen text-white border bg-stone-900"></div>;
     </>
   );
 }

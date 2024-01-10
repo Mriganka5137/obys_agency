@@ -3,7 +3,10 @@
 @tailwind utilities;
 
 @layer utilities {
+  .line {
+    @apply overflow-hidden;
+  }
   .line h1 {
-    @apply text-8xl;
+    @apply leading-[110px] text-8xl;
   }
 }
