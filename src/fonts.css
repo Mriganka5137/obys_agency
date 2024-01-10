@@ -1,0 +1,27 @@
+@font-face {
+  font-family: "plain-light";
+  src: url("/fonts/plain-light-webfont.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "plain-regular";
+  src: url("/fonts/plain-regular-webfont.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "silkserif-lightitalic";
+  src: url("/fonts/silkserif-lightitalic-webfont.woff") format("woff");
+  font-weight: normal;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "silkserif-regularitalic";
+  src: url("/fonts/silkserif-regularitalic-webfont.woff") format("woff");
+  font-weight: normal;
+  font-style: italic;
+}
