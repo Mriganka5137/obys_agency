@@ -9,4 +9,8 @@
   .line h1 {
     @apply leading-[110px] text-8xl;
   }
+
+  .page1 {
+    background-color: #151515;
+  }
 }

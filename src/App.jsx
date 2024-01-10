@@ -1,12 +1,12 @@
 import Loader from "./components/Loader";
+import Page1 from "./components/page1";
 
 function App() {
-  console.log("App");
   return (
-    <>
+    <div>
       <Loader />
-      <div className="w-full h-screen text-white border bg-stone-900"></div>;
-    </>
+      <Page1 />
+    </div>
   );
 }
 
